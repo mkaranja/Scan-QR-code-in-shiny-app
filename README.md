@@ -1,2 +1,4 @@
-# Scan-QR-code-in-shiny-app
-Enable real time QR code scanning in a shiny app using opencv r package
+Enable real time QR code scanning in a shiny app using opencv r package.
+The app works well on local machine but clash when hosted on shiny server pro.
+
+opencv r package, https://github.com/ropensci/opencv
